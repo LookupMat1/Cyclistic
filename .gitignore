@@ -1,4 +1,14 @@
-.Rproj.user
+# Large datasets
+*.csv
+*.RData
+*.RDataTmp*
+*.nb.html
+
+# R temporary/session files
 .Rhistory
 .RData
-.Ruserdata
+.Rproj.user/
+
+# macOS metadata
+.DS_Store
+__MACOSX/
