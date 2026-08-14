@@ -1,0 +1,25 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+#Exploring data
+```{r}
+head(Divvy_Trips_2019_Q1_Clean)
+tail(Divvy_Trips_2019_Q1_Clean)
+dim(Divvy_Trips_2019_Q1_Clean)
+```
+```{r}
+str(Divvy_Trips_2019_Q1_Clean)
+``` 
+```{r}
+summary(Divvy_Trips_2019_Q1_Clean)
+```
+#Checking data quality
+
+
+#First i will prepare the data by cleaning dataset.This will involve removing blanks and dublicates from the table.
+```{r}
+
+```
+
+
